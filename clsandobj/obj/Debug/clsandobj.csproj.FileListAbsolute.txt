@@ -1,0 +1,7 @@
+C:\Users\pakhr\Desktop\.net\clsandobj\bin\Debug\clsandobj.exe.config
+C:\Users\pakhr\Desktop\.net\clsandobj\bin\Debug\clsandobj.exe
+C:\Users\pakhr\Desktop\.net\clsandobj\bin\Debug\clsandobj.pdb
+C:\Users\pakhr\Desktop\.net\clsandobj\obj\Debug\clsandobj.csproj.AssemblyReference.cache
+C:\Users\pakhr\Desktop\.net\clsandobj\obj\Debug\clsandobj.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\Desktop\.net\clsandobj\obj\Debug\clsandobj.exe
+C:\Users\pakhr\Desktop\.net\clsandobj\obj\Debug\clsandobj.pdb

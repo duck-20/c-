@@ -1,0 +1,7 @@
+C:\Users\pakhr\Desktop\.net\GetterAndSetters\obj\Debug\GetterAndSetters.csproj.AssemblyReference.cache
+C:\Users\pakhr\Desktop\.net\GetterAndSetters\obj\Debug\GetterAndSetters.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\Desktop\.net\GetterAndSetters\bin\Debug\GetterAndSetters.exe.config
+C:\Users\pakhr\Desktop\.net\GetterAndSetters\bin\Debug\GetterAndSetters.exe
+C:\Users\pakhr\Desktop\.net\GetterAndSetters\bin\Debug\GetterAndSetters.pdb
+C:\Users\pakhr\Desktop\.net\GetterAndSetters\obj\Debug\GetterAndSetters.exe
+C:\Users\pakhr\Desktop\.net\GetterAndSetters\obj\Debug\GetterAndSetters.pdb

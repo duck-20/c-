@@ -1,0 +1,7 @@
+C:\Users\pakhr\Desktop\.net\objmet\bin\Debug\objmet.exe.config
+C:\Users\pakhr\Desktop\.net\objmet\bin\Debug\objmet.exe
+C:\Users\pakhr\Desktop\.net\objmet\bin\Debug\objmet.pdb
+C:\Users\pakhr\Desktop\.net\objmet\obj\Debug\objmet.csproj.AssemblyReference.cache
+C:\Users\pakhr\Desktop\.net\objmet\obj\Debug\objmet.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\Desktop\.net\objmet\obj\Debug\objmet.exe
+C:\Users\pakhr\Desktop\.net\objmet\obj\Debug\objmet.pdb

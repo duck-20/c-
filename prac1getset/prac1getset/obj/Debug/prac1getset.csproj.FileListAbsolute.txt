@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\prac1getset\prac1getset\bin\Debug\prac1getset.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\prac1getset\prac1getset\bin\Debug\prac1getset.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\prac1getset\prac1getset\bin\Debug\prac1getset.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\prac1getset\prac1getset\obj\Debug\prac1getset.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\prac1getset\prac1getset\obj\Debug\prac1getset.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\prac1getset\prac1getset\obj\Debug\prac1getset.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\prac1getset\prac1getset\obj\Debug\prac1getset.pdb

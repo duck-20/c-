@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\staticmethodandclasses\staticmethodandclasses\bin\Debug\staticmethodandclasses.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\staticmethodandclasses\staticmethodandclasses\bin\Debug\staticmethodandclasses.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\staticmethodandclasses\staticmethodandclasses\bin\Debug\staticmethodandclasses.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\staticmethodandclasses\staticmethodandclasses\obj\Debug\staticmethodandclasses.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\staticmethodandclasses\staticmethodandclasses\obj\Debug\staticmethodandclasses.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\staticmethodandclasses\staticmethodandclasses\obj\Debug\staticmethodandclasses.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\staticmethodandclasses\staticmethodandclasses\obj\Debug\staticmethodandclasses.pdb

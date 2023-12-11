@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\staticclassatt\staticclassatt\bin\Debug\staticclassatt.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\staticclassatt\staticclassatt\bin\Debug\staticclassatt.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\staticclassatt\staticclassatt\bin\Debug\staticclassatt.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\staticclassatt\staticclassatt\obj\Debug\staticclassatt.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\staticclassatt\staticclassatt\obj\Debug\staticclassatt.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\staticclassatt\staticclassatt\obj\Debug\staticclassatt.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\staticclassatt\staticclassatt\obj\Debug\staticclassatt.pdb

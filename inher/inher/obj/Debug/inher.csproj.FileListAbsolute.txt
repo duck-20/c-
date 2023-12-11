@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\inher\inher\bin\Debug\inher.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\inher\inher\bin\Debug\inher.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\inher\inher\bin\Debug\inher.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\inher\inher\obj\Debug\inher.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\inher\inher\obj\Debug\inher.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\inher\inher\obj\Debug\inher.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\inher\inher\obj\Debug\inher.pdb

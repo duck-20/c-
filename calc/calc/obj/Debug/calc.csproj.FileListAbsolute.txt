@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\calc\calc\bin\Debug\calc.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\calc\calc\bin\Debug\calc.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\calc\calc\bin\Debug\calc.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\calc\calc\obj\Debug\calc.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\calc\calc\obj\Debug\calc.pdb

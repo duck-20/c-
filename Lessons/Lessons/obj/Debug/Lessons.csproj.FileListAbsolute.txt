@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\Lessons\Lessons\bin\Debug\Lessons.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\Lessons\Lessons\bin\Debug\Lessons.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\Lessons\Lessons\bin\Debug\Lessons.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\Lessons\Lessons\obj\Debug\Lessons.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\Lessons\Lessons\obj\Debug\Lessons.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\Lessons\Lessons\obj\Debug\Lessons.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\Lessons\Lessons\obj\Debug\Lessons.pdb

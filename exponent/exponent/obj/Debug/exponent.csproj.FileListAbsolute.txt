@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\exponent\exponent\bin\Debug\exponent.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\exponent\exponent\bin\Debug\exponent.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\exponent\exponent\bin\Debug\exponent.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\exponent\exponent\obj\Debug\exponent.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\exponent\exponent\obj\Debug\exponent.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\exponent\exponent\obj\Debug\exponent.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\exponent\exponent\obj\Debug\exponent.pdb

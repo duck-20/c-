@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\GUESSGAME\GUESSGAME\bin\Debug\GUESSGAME.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\GUESSGAME\GUESSGAME\bin\Debug\GUESSGAME.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\GUESSGAME\GUESSGAME\bin\Debug\GUESSGAME.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\GUESSGAME\GUESSGAME\obj\Debug\GUESSGAME.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\GUESSGAME\GUESSGAME\obj\Debug\GUESSGAME.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\GUESSGAME\GUESSGAME\obj\Debug\GUESSGAME.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\GUESSGAME\GUESSGAME\obj\Debug\GUESSGAME.pdb

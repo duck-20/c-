@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\oddeven\oddeven\bin\Debug\oddeven.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\oddeven\oddeven\bin\Debug\oddeven.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\oddeven\oddeven\bin\Debug\oddeven.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\oddeven\oddeven\obj\Debug\oddeven.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\oddeven\oddeven\obj\Debug\oddeven.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\oddeven\oddeven\obj\Debug\oddeven.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\oddeven\oddeven\obj\Debug\oddeven.pdb

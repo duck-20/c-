@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\printoddno\printoddno\obj\Debug\printoddno.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\printoddno\printoddno\obj\Debug\printoddno.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\printoddno\printoddno\bin\Debug\printoddno.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\printoddno\printoddno\bin\Debug\printoddno.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\printoddno\printoddno\bin\Debug\printoddno.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\printoddno\printoddno\obj\Debug\printoddno.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\printoddno\printoddno\obj\Debug\printoddno.pdb

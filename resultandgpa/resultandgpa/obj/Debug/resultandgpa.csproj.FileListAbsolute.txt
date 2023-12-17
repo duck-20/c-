@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\resultandgpa\resultandgpa\bin\Debug\resultandgpa.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\resultandgpa\resultandgpa\bin\Debug\resultandgpa.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\resultandgpa\resultandgpa\bin\Debug\resultandgpa.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\resultandgpa\resultandgpa\obj\Debug\resultandgpa.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\resultandgpa\resultandgpa\obj\Debug\resultandgpa.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\resultandgpa\resultandgpa\obj\Debug\resultandgpa.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\resultandgpa\resultandgpa\obj\Debug\resultandgpa.pdb

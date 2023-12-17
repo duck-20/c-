@@ -7,13 +7,14 @@ namespace resultandgpa
     {
         static void Main(string[] args)
         {
-            string[] subject = new string[5];
-            int[] marks = new int[5];
+            int length = 5;
+            string[] subject = new string[length];
+            int[] marks = new int[length];
             double total = 500;
             double totalMarks = 0;
             double percentage;
-            double[] individualPercentage=new double[5];
-            double[] individualGPA=new double[5];
+            double[] individualPercentage=new double[length];
+            double[] individualGPA=new double[length];
             double gpa = 0;
 
             //For subject
@@ -72,13 +73,14 @@ namespace resultandgpa
 
 
            
-            Console.WriteLine("Subject\t\tMark\t\tGPA");
+            Console.WriteLine("Subject\t\t|Mark\t\t|GPA");
+            Console.WriteLine("---------------------------------------------");
             for(int i = 0;i<subject.Length;i++)
             {
 
-                Console.WriteLine($"{subject[i]}\t\t{marks[i]} \t\t{individualGPA[i]} ");
+                Console.WriteLine($"{subject[i]}\t\t|{marks[i]}\t\t|{individualGPA[i]} ");
             }
-
+            Console.WriteLine("---------------------------------------------");
             Console.WriteLine($"Total Marks:{totalMarks}");
             Console.WriteLine($"Percentage:{percentage}%");
             Console.WriteLine($"Average GPA:{gpa}");

@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\outandrefer\outandrefer\bin\Debug\outandrefer.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\outandrefer\outandrefer\bin\Debug\outandrefer.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\outandrefer\outandrefer\bin\Debug\outandrefer.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\outandrefer\outandrefer\obj\Debug\outandrefer.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\outandrefer\outandrefer\obj\Debug\outandrefer.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\outandrefer\outandrefer\obj\Debug\outandrefer.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\outandrefer\outandrefer\obj\Debug\outandrefer.pdb

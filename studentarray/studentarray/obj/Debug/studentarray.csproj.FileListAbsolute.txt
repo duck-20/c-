@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\studentarray\studentarray\bin\Debug\studentarray.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\studentarray\studentarray\bin\Debug\studentarray.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\studentarray\studentarray\bin\Debug\studentarray.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\studentarray\studentarray\obj\Debug\studentarray.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\studentarray\studentarray\obj\Debug\studentarray.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\studentarray\studentarray\obj\Debug\studentarray.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\studentarray\studentarray\obj\Debug\studentarray.pdb

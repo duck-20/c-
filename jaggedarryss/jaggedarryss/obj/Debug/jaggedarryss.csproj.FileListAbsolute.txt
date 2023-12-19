@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\jaggedarryss\jaggedarryss\bin\Debug\jaggedarryss.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\jaggedarryss\jaggedarryss\bin\Debug\jaggedarryss.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\jaggedarryss\jaggedarryss\bin\Debug\jaggedarryss.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\jaggedarryss\jaggedarryss\obj\Debug\jaggedarryss.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\jaggedarryss\jaggedarryss\obj\Debug\jaggedarryss.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\jaggedarryss\jaggedarryss\obj\Debug\jaggedarryss.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\jaggedarryss\jaggedarryss\obj\Debug\jaggedarryss.pdb

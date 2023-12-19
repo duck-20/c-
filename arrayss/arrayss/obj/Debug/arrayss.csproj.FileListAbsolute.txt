@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\arrayss\arrayss\bin\Debug\arrayss.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\arrayss\arrayss\bin\Debug\arrayss.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\arrayss\arrayss\bin\Debug\arrayss.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\arrayss\arrayss\obj\Debug\arrayss.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\arrayss\arrayss\obj\Debug\arrayss.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\arrayss\arrayss\obj\Debug\arrayss.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\arrayss\arrayss\obj\Debug\arrayss.pdb

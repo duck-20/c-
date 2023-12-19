@@ -15,12 +15,12 @@ namespace resultandgpa
             double percentage;
             double[] individualPercentage=new double[length];
             double[] individualGPA=new double[length];
-            double gpa = 0;
+            double gpa;
 
             //For subject
             for (int i = 0; i < subject.Length; i++)
             {
-                Console.WriteLine("Enter the Subject Name:");
+                Console.Write("Enter the Subject Name:");
                 
                 subject[i] = Console.ReadLine();
             }
@@ -82,7 +82,7 @@ namespace resultandgpa
             }
             Console.WriteLine("---------------------------------------------");
             Console.WriteLine($"Total Marks:{totalMarks}");
-            Console.WriteLine($"Percentage:{percentage}%");
+            Console.WriteLine($"Percentage:{percentage} %");
             Console.WriteLine($"Average GPA:{gpa}");
             Grade(gpa);
             Console.ReadKey();

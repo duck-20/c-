@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\dowhileloop\dowhileloop\bin\Debug\dowhileloop.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\dowhileloop\dowhileloop\bin\Debug\dowhileloop.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\dowhileloop\dowhileloop\bin\Debug\dowhileloop.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\dowhileloop\dowhileloop\obj\Debug\dowhileloop.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\dowhileloop\dowhileloop\obj\Debug\dowhileloop.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\dowhileloop\dowhileloop\obj\Debug\dowhileloop.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\dowhileloop\dowhileloop\obj\Debug\dowhileloop.pdb

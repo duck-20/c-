@@ -28,6 +28,10 @@ namespace GUESSGAME
                     {
                         Console.WriteLine("Yay!You win.");
                     }
+                    else if(guess!=secretWord)
+                    {
+                        Console.WriteLine("Try Again!");
+                    }
 
                 }
                 else if(guessCount==guessLimit)

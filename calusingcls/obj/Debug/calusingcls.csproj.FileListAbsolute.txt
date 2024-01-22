@@ -5,3 +5,10 @@ C:\Users\pakhr\Desktop\.net\calusingcls\obj\Debug\calusingcls.csproj.AssemblyRef
 C:\Users\pakhr\Desktop\.net\calusingcls\obj\Debug\calusingcls.csproj.CoreCompileInputs.cache
 C:\Users\pakhr\Desktop\.net\calusingcls\obj\Debug\calusingcls.exe
 C:\Users\pakhr\Desktop\.net\calusingcls\obj\Debug\calusingcls.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\calusingcls\bin\Debug\calusingcls.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\calusingcls\bin\Debug\calusingcls.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\calusingcls\bin\Debug\calusingcls.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\calusingcls\obj\Debug\calusingcls.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\calusingcls\obj\Debug\calusingcls.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\calusingcls\obj\Debug\calusingcls.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\calusingcls\obj\Debug\calusingcls.pdb

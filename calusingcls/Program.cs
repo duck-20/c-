@@ -12,6 +12,7 @@ namespace calusingcls
         {
             Add add=new Add(4,4);
             Add add1 = new Add(5,5);
+            Add add2= new Add();
             Console.ReadKey();
         }
     }

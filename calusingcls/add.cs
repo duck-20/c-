@@ -10,10 +10,10 @@ namespace calusingcls
     {
         public int num1;
         public int num2;
-        public Add(int a,int b)
+        public Add(int a=5,int b = 4)
         {
-            num1 = a; num2 = b;
-            Console.WriteLine(num1 + num2);
+            this.num1 = a; this.num2 = b;
+            Console.WriteLine($"Sum:{num1 + num2}");
         }
     }
 }

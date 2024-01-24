@@ -1,0 +1,7 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\stringsum\stringsum\bin\Debug\stringsum.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\stringsum\stringsum\bin\Debug\stringsum.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\stringsum\stringsum\bin\Debug\stringsum.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\stringsum\stringsum\obj\Debug\stringsum.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\stringsum\stringsum\obj\Debug\stringsum.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\stringsum\stringsum\obj\Debug\stringsum.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\stringsum\stringsum\obj\Debug\stringsum.pdb

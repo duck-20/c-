@@ -1,0 +1,14 @@
+C:\Users\pakhr\OneDrive\Desktop\.net\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\ConsoleApp1\obj\Debug\Async.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\ConsoleApp1\obj\Debug\Async.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\Async\bin\Debug\ConsoleApp1.exe.config
+C:\Users\pakhr\OneDrive\Desktop\.net\Async\bin\Debug\ConsoleApp1.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\Async\bin\Debug\ConsoleApp1.pdb
+C:\Users\pakhr\OneDrive\Desktop\.net\Async\obj\Debug\Async.csproj.AssemblyReference.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\Async\obj\Debug\Async.csproj.CoreCompileInputs.cache
+C:\Users\pakhr\OneDrive\Desktop\.net\Async\obj\Debug\ConsoleApp1.exe
+C:\Users\pakhr\OneDrive\Desktop\.net\Async\obj\Debug\ConsoleApp1.pdb
